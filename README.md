@@ -1,16 +1,85 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Dimple 👋</h1>
+<h3 align="center">Full-Stack Developer | React • Node.js • Firebase • WordPress</h3>
 
-<!--
-**dimple-18/dimple-18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I'm a passionate full-stack developer who loves building clean, modern and real-world applications.  
+I enjoy learning new technologies step-by-step and applying them directly into practical projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on **Firebolt**, a full-stack lead & offer management system.
+
+---
+
+### 🌱 What I'm Learning
+- Advanced **React Hooks** – useState, useEffect, useCallback, useRef  
+- Scalable frontend folder structures  
+- REST APIs with **Node.js + Express**  
+- Firebase Admin SDK & Cloud Functions  
+- WordPress + Elementor for client websites  
+- Writing clean Git commits and documenting projects properly
+
+---
+
+### 🛠 Tech Stack
+**Frontend:**  
+React • JavaScript • Vite • Tailwind CSS  
+
+**Backend:**  
+Node.js • Express  
+
+**Database / Cloud:**  
+Firebase • Firestore • Cloudinary  
+
+**Other:**  
+Git • GitHub • WordPress • Elementor • VS Code
+
+---
+
+### ⚡ Current Project: Firebolt
+**Firebolt — Leads & Offers Portal**  
+A complete management system with:
+- Admin dashboards  
+- Leads & offers CRUD  
+- Firebase integrations  
+- Cloudinary file uploads  
+- Authentication system  
+- Webhook listener + audit log collection
+
+
+---
+
+### 📚 Learning & Practice Projects
+Some of the projects I’ve built while learning:
+
+- **TrueWeather** – React app showing real-time weather updates  
+- **onView-Movie-App** – Movie discovery app built with React  
+- **Quiz-App** – Simple quiz app using React state & props  
+- **Dash-todo-app** – To-do app to practise CRUD and component structure  
+- **ReactRouter** – Demo project exploring React Router  
+- **ColorPlay, Props-Project** – Small projects to deepen core React concepts  
+
+---
+
+### 💖 My First Project Journey
+Before React, Firebase and full-stack apps, there was my very first project:
+
+#### 🍽️ [zomato2](https://github.com/dimple-18/zomato2)
+A Zomato-inspired landing page built with **pure HTML, CSS and JavaScript**.
+
+- Every line of code is written by me from scratch  
+- All the layout and design decisions came from my own thinking  
+- This project taught me the basics of structure, spacing, typography and responsiveness  
+- I keep it as a reminder of **where my developer journey started** ✨  
+
+It’s not “perfect” — and that’s exactly why it’s special.
+
+---
+
+### 📫 Connect With Me
+- LinkedIn: http://linkedin.com/in/dimple-kumari 
+- GitHub: https://github.com/dimple-18  
+
+---
+
+<p align="center">✨ “I’m learning one step at a time, and building every day.” ✨</p>
