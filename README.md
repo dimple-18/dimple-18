@@ -7,8 +7,6 @@
 I'm a passionate full-stack developer who loves building clean, modern and real-world applications.  
 I enjoy learning new technologies step-by-step and applying them directly into practical projects.
 
-Currently working on **Firebolt**, a full-stack lead & offer management system.
-
 ---
 
 ### 🌱 What I'm Learning
@@ -16,7 +14,10 @@ Currently working on **Firebolt**, a full-stack lead & offer management system.
 - Scalable frontend folder structures  
 - REST APIs with **Node.js + Express**  
 - Firebase Admin SDK & Cloud Functions  
-- WordPress + Elementor for client websites  
+- Backend architecture best practices (controllers, routes, middlewares)
+- Authentication & authorization using Firebase Admin
+- Cloudinary integration for file uploads
+- WordPress + Elementor for client websites 
 - Writing clean Git commits and documenting projects properly
 
 ---
@@ -33,19 +34,6 @@ Firebase • Firestore • Cloudinary
 
 **Other:**  
 Git • GitHub • WordPress • Elementor • VS Code
-
----
-
-### ⚡ Current Project: Firebolt
-**Firebolt — Leads & Offers Portal**  
-A complete management system with:
-- Admin dashboards  
-- Leads & offers CRUD  
-- Firebase integrations  
-- Cloudinary file uploads  
-- Authentication system  
-- Webhook listener + audit log collection
-
 
 ---
 
