@@ -9,25 +9,12 @@ I enjoy learning new technologies step-by-step and applying them directly into p
 
 ---
 
-### 🌱 What I'm Learning
-- Advanced **React Hooks** – useState, useEffect, useCallback, useRef  
-- Scalable frontend folder structures  
-- REST APIs with **Node.js + Express**  
-- Firebase Admin SDK & Cloud Functions  
-- Backend architecture best practices (controllers, routes, middlewares)
-- Authentication & authorization using Firebase Admin
-- Cloudinary integration for file uploads
-- WordPress + Elementor for client websites 
-- Writing clean Git commits and documenting projects properly
-
----
-
 ### 🛠 Tech Stack
 **Frontend:**  
 React • JavaScript • Vite • Tailwind CSS  
 
 **Backend:**  
-Node.js • Express  
+Node.js • Express • PHP   
 
 **Database / Cloud:**  
 Firebase • Firestore • Cloudinary  
